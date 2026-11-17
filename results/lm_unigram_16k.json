@@ -1,0 +1,10 @@
+{
+ "tokenizer": "unigram_16k",
+ "steps": 6000,
+ "parameters": 2857728,
+ "test_bits_per_char": 1.7762,
+ "test_tokens": 61891,
+ "test_chars": 293429,
+ "training_tokens_seen": 12288000,
+ "training_chars_seen": 53651441
+}

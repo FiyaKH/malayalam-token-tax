@@ -1,0 +1,12 @@
+{
+ "run": "bpe_gpt2split_16k_eqchars",
+ "tokenizer": "bpe_gpt2split_16k",
+ "seed": 0,
+ "steps": 18100,
+ "parameters": 2857728,
+ "test_bits_per_char": 1.8887,
+ "test_tokens": 214857,
+ "test_chars": 293429,
+ "training_tokens_seen": 37068800,
+ "training_chars_seen": 51423031
+}

@@ -1,0 +1,7 @@
+tokenizer,malayalam_tokens,tokens_per_malayalam_word,malayalam_chars_per_token,fewer_tokens_than_gpt4,exact_roundtrip
+"Ours: BPE, GPT-2 split 16k",214917,7.33,1.36,2.2,1.0
+"Ours: BPE, fixed split 4k",85275,2.91,3.42,5.6,1.0
+"Ours: BPE, fixed split 8k",72918,2.49,4.0,6.5,1.0
+"Ours: BPE, fixed split 16k",63759,2.18,4.57,7.4,1.0
+"Ours: BPE, fixed split 32k",56453,1.93,5.16,8.4,1.0
+Ours: Unigram 16k,61891,2.11,4.71,7.7,1.0

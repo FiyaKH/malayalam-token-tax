@@ -1,0 +1,7 @@
+tokenizer,english_tokens,malayalam_tokens,tax_ratio,median_sentence_ratio,tokens_per_malayalam_word,malayalam_chars_per_token
+OpenAI cl100k (GPT-4),52983,473735,8.94,8.95,16.16,0.62
+OpenAI o200k (GPT-4o),52409,102442,1.95,1.94,3.5,2.84
+Qwen2.5,53876,389506,7.23,7.29,13.29,0.75
+BLOOM,53388,73945,1.39,1.38,2.52,3.94
+XLM-RoBERTa,59656,82039,1.38,1.36,2.8,3.55
+MuRIL (Indian languages),53946,63546,1.18,1.17,2.17,4.59

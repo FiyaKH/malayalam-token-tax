@@ -1,0 +1,7 @@
+setting,run,seed,steps,training_chars_seen_M,test_bits_per_char
+"BPE, GPT-2 split, equal tokens",bpe_gpt2split_16k,0,6000,17.0,2.038
+"BPE, GPT-2 split, equal characters",bpe_gpt2split_16k_eqchars,0,18100,51.4,1.8887
+"BPE, marks-aware split, equal tokens",bpe_fixed_16k,0,6000,51.5,1.7843
+"BPE, marks-aware split, equal tokens",bpe_fixed_16k_seed1,1,6000,51.5,1.7621
+"Unigram, equal tokens",unigram_16k,0,6000,53.7,1.7762
+"Unigram, equal tokens",unigram_16k_seed1,1,6000,53.7,1.7783
